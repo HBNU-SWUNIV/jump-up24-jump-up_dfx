@@ -1,5 +1,5 @@
 # Jump-up
-# 한밭대 지능미디어공학과 SCS(Satellite Communication Security)팀
+# 국립한밭대학교 XXX학과 XXX팀
 
 **팀 구성**
 - 2019XXXX Name
