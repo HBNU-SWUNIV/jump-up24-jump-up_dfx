@@ -1,11 +1,10 @@
 # Jump-up
-# 국립한밭대학교 XXX학과 XXX팀
+# 국립한밭대학교 컴퓨터공학과 DfX팀
 
 **팀 구성**
-- 2019XXXX Name
-- 2020XXXX Name
-- 2019XXXX Name
-- 2020XXXX Name
+- 30211058 조지훈
+- 20202689 오민석
+- 20217137 송찬호
 
 ## Project Background
 - ABCD
