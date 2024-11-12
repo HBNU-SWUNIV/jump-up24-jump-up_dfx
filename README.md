@@ -21,14 +21,22 @@
   - 기존 방식으로 추론 된 데이터는 셀 병합 및 개행 시 다른 셀로 인식하는 문제점이 존재함.
 
 ## System Model
-- ABCD
-![input](./dfx-media/input_image.jpg)
+- 시스템 순서도
+![input](./dfx-media/flowchart.png)
 
-## Numerical Results
-- ABCD
+- 선 생성(Line Generator)
+  - Vertical Line Generation(VLG)
+    ![VLG](./dfx-media/partially_h/vertical_line.gif)
+  - Horizontal Line Generation(HLG)    
+    ![HLG](./dfx-media/partially_v/horizontal_line.gif)
+
 
 ## Conclusion
-- ABCD
+표 이미지를 입력 해 최종적으로 엑셀로 변환하는 과정을 
+- ### 입력 이미지
+    ![input_image](./dfx-media/conclusion/input_image.png)
+- ### 선 생성 결과
+    ![input_image](./dfx-media/conclusion/linegeneration.png)
+- ### 엑셀 출력 결과
+    ![input_image](./dfx-media/conclusion/excel.png)
 
-## Project Outcome
-- ABCD
