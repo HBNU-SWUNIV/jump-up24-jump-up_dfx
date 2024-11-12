@@ -22,6 +22,7 @@
 
 ## System Model
 - ABCD
+![input](./dfx-media/input_image.jpg)
 
 ## Numerical Results
 - ABCD
