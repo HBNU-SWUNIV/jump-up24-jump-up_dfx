@@ -32,7 +32,7 @@
 
 
 ## Conclusion
-표 이미지를 입력 해 최종적으로 엑셀로 변환하는 과정을 
+### 표 이미지를 입력 해 최종적으로 엑셀로 변환하는 과정을 
 - ### 입력 이미지
     ![input_image](./dfx-media/conclusion/input_image.png)
 - ### 선 생성 결과
@@ -40,3 +40,15 @@
 - ### 엑셀 출력 결과
     ![input_image](./dfx-media/conclusion/excel.png)
 
+
+### 웹 페이지 결과
+
+- ### 메인 페이지
+    ![input_image](./dfx-media/img/01_main.png)
+- ### 로딩 페이지
+    ![input_image](./dfx-media/img/02_processing.png)
+- ### 결과 페이지
+    ![input_image](./dfx-media/img/03_done.png)
+- ### 결과 이미지
+    ![input_image](./dfx-media/img/04_result.png)
+  
