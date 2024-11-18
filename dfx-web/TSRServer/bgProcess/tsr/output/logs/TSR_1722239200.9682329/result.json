@@ -1,0 +1,480 @@
+{
+    "result": [
+        {
+            "cell": {
+                "row": 1,
+                "column": 1
+            },
+            "text": "Consultant:\n\n"
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 2
+            },
+            "text": "Kaliro Siduco\n\n"
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 3
+            },
+            "text": "Project:\n\n"
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 4
+            },
+            "text": "XGTR\n\n"
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 6
+            },
+            "text": "Customer:\n\n"
+        },
+        {
+            "cell": {
+                "row": 1,
+                "column": 7
+            },
+            "text": "Tech Alive\n\n"
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 1
+            },
+            "text": "Date:\n\n"
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 2
+            },
+            "text": "21.May.20\n\n"
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 3
+            },
+            "text": "Team:\n\n"
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 6
+            },
+            "text": "Customer-ID:\n\n"
+        },
+        {
+            "cell": {
+                "row": 2,
+                "column": 7
+            },
+            "text": "443228-XY\n\n"
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 1
+            },
+            "text": "Position\n\n"
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 2
+            },
+            "text": "Service\n\n"
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 5
+            },
+            "text": "Factor\n\n"
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 6
+            },
+            "text": "Amount\n\n"
+        },
+        {
+            "cell": {
+                "row": 3,
+                "column": 7
+            },
+            "text": "Unit\n\n"
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 2
+            },
+            "text": "Backend Support\n\n"
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 6
+            },
+            "text": "10\n\n"
+        },
+        {
+            "cell": {
+                "row": 4,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 2
+            },
+            "text": "Team Meetings\n\n"
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 5,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 2
+            },
+            "text": "Milestone Presentation\n\n"
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 6,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 2
+            },
+            "text": "Code Refactoring\n\n"
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 7,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 2
+            },
+            "text": "Migration\n\n"
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 8,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 2
+            },
+            "text": "Next Steps\n\n"
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 9,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 2
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 4
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 6
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 10,
+                "column": 7
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 1
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 2
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 4
+            },
+            "text": "Total\n\n"
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 5
+            },
+            "text": ""
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 6
+            },
+            "text": "30\n\n"
+        },
+        {
+            "cell": {
+                "row": 11,
+                "column": 7
+            },
+            "text": "hours\n\n"
+        }
+    ]
+}

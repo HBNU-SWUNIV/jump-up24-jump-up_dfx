@@ -1,0 +1,9 @@
+name: TSR
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+prefix: /Users/simtori/opt/anaconda3/envs/TSR
